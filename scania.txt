@@ -1,0 +1,57 @@
+Node.js for the backend and EJS for the templating language
+ EJS keeps things simple by leaving the markup as is and sprinkling some JavaScript in there for control flow
+
+
+
+1)views/ will contain our EJS templates and the partials we will include
+2)app.js will have our Express configuration and routes
+3)package.json will maintain our dependencies (Express and EJS)
+package.Json(license,description,name, version,keyword,repository,scripts
+It serves as documentation for what packages your project depends on.name,version,metadata
+
+GET" for pure queries and "POST" for other form submissions.
+
+npm
+
+npm init # This will trigger the initialization
+
+
+Greenfield
+
+Sandbox,production,testing
+
+extension of förlangning
+DC---physika, VMware(operationg system   AWS(hyper)KVM
+
+
+Cloud information
+infrastructure as code.
+
+
+
+
+        
+Java
+Static & nonstatic
+Metod overloading 
+constructors
+inheritence
+Filehandling
+Applets
+
+Which kind of cloud programming are you doing?
+If there is development team exist , testing team also exist right?
+What are we going to develop by cloud programing?
+My knowledge is enough?
+
+
+What are your expectations?
+AWS platform
+
+marine engine?
+
+I am seeking this opurtunity to learn in unique way through competent and committed colleagues in a creative work environment.
+I have strong passion for development and interest in deepen my skills
+
+Scania is a part of Volkswagen truck and Bus GmBH.
+
